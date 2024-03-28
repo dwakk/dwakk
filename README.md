@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m interested in web development and cybersecurity<br>🌱 I’m currently learning Vue and Rust<br>📂 If it exists, it can be done it typescript <br>🥭Mongo is the way to go !
+🔭 I’m interested in web development and cybersecurity<br>🌱 I’m currently learning Vue and Rust<br>📂 If it exists, it can be done with Typescript <br>🥭Mongo is the way to go !
 
 
 # 💻 Tech Stack:
